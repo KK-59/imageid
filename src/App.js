@@ -94,6 +94,8 @@ function App() {
       Differentiating between dangerous mosquitoes, that carry such diseases, from regular ones is the key to mitigating this problem at a low cost: after identifying a dangerous mosquito, families can protect high-risk individuals (babies, the elderly, the sick, etc.) and simply use insecticide to kill the mosquito. Then, they can raise the alarm and look for eggs/other mosquitos in the home. However, differentiating these mosquitos is impossible. This is where our solution comes in -- our app allows users to take a picture of a mosquito and, using our AI model, trained on --number-- of data, can identify whether or not it is dangerous. <b>This is an easy, cheap way to mitigate a rampant problem. </b>
       <br/>
       In the future, we would like to expand the reach of this app -- we would like to set up cameras in hospitals, convention centres, etc., which automatically scan for mosquitos and notify staff if a dangerous one is found. We also want to contact hospitals to obtain more data (more than what is currently publicly available) to fine-tune our model even more. 
+
+      hello
       </div>
       
     </div>
